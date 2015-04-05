@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-exclude: [Gemfile, Gemfile.lock, README.md]
+exclude: [Gemfile, Gemfile.lock, README.md, Vagrantfile]
 rdiscount:
   extensions: [smart]
 paginate: 3
